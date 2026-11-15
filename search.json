@@ -1,0 +1,264 @@
+[
+  {
+    "objectID": "modules/00/weekly-rubric.html",
+    "href": "modules/00/weekly-rubric.html",
+    "title": "Rubric (Weekly Assignments)",
+    "section": "",
+    "text": "1%\n2%\n3%\n4%\n5%\n\n\n\n\nThe submission fails to showcase any working features. The solution is practically unusable due to issues.\nOnly a few features are functional. Significant missing work or issues with the submission.\nMajor issues impact key features, but some functionality is evident. Noticeable gaps or confusing submission.\nMinor issues or bugs are present but do not significantly impact the functionality. Very few gaps, and a near-complete submission.\nAll features are fully functional. A complete submission that meets all requirements of the assignment.\n\n\n\n(0% for unsubmitted work)",
+    "crumbs": [
+      "**Welcome**",
+      "Rubric (Weekly Assignments)"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "CS-393/593: AI Coding Agents",
+    "section": "",
+    "text": "This site contains a collection of slides, code, and other resources for lectures held within the Spring 2027 CS-393/593 course.",
+    "crumbs": [
+      "CS-393/593"
+    ]
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "CS-393/593: AI Coding Agents",
+    "section": "",
+    "text": "This site contains a collection of slides, code, and other resources for lectures held within the Spring 2027 CS-393/593 course.",
+    "crumbs": [
+      "CS-393/593"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#course-description",
+    "href": "modules/00/slides.html#course-description",
+    "title": "Welcome to CS-393/593",
+    "section": "Course description",
+    "text": "Course description\n\nThis course covers principles and practice of AI coding agents in software engineering.\nTopics include\n\nFoundations of generative AI and agentic systems\nDirecting agents toward engineering goals\nEvaluation and testing of AI-generated code\nDesign and construction of custom agent systems",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#course-description-1",
+    "href": "modules/00/slides.html#course-description-1",
+    "title": "Welcome to CS-393/593",
+    "section": "Course description",
+    "text": "Course description\n\nTopics cont’d\n\nSecurity and oversight of autonomous agents\nIntegration of agents into software development processes\nand professional, legal, and economic considerations\n\nIncludes a substantial hands-on project",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#learning-outcomes",
+    "href": "modules/00/slides.html#learning-outcomes",
+    "title": "Welcome to CS-393/593",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\n\nUnderstand the basic working principles and history of LLMs (Large Language Models) and agents, including the agentic loop, retrieving data, and incorporating tools.\nApply effective prompting practices to direct coding agents toward a working solution, using a structured lifecycle approach.",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#learning-outcomes-1",
+    "href": "modules/00/slides.html#learning-outcomes-1",
+    "title": "Welcome to CS-393/593",
+    "section": "Learning outcomes",
+    "text": "Learning outcomes\n\nCritically evaluate AI-generated code and agent output, identifying and fixing hallucinated output and comparing performance using industry benchmarks.\nIntegrate coding agents into real software engineering workflows while applying necessary security controls and licensing considerations.\nDesign, build, and deploy a complete application using coding agents or design a custom coding-agent system end-to-end.",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#in-summary",
+    "href": "modules/00/slides.html#in-summary",
+    "title": "Welcome to CS-393/593",
+    "section": "In summary",
+    "text": "In summary\n\nFocus on using AI coding agents effectively vs. “vibe-coding”\nProvide a level of understanding beyond where most professional software developers are today\nBuild an exciting final project that you can add to your portfolio!",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#syllabus-1",
+    "href": "modules/00/slides.html#syllabus-1",
+    "title": "Welcome to CS-393/593",
+    "section": "Syllabus",
+    "text": "Syllabus\n\nSyllabus on OneDrive",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#schedule",
+    "href": "modules/00/slides.html#schedule",
+    "title": "Welcome to CS-393/593",
+    "section": "Schedule",
+    "text": "Schedule\n\nEvery Thursday (Blanc); 9am - 11.50am\n~1.5 hours of lecture\n~1.5 hours for in-class hands-on exercises and assignments\nExpectation of after-class work for assignments\nNo structured lectures for the weeks of the final project (3 hours of in-class lab time)\n\nAlthough we may do mini-lectures for common topics",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#schedule-1",
+    "href": "modules/00/slides.html#schedule-1",
+    "title": "Welcome to CS-393/593",
+    "section": "Schedule",
+    "text": "Schedule\n\nModules 1 through 8\n\nFrom now through Feb 25th\n\nMar 9 - 13 is Spring Break!\nWeeks 9 through 14 - Final Project Work\nFinal presentations w/o Apr 19th-23rd",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#during-class",
+    "href": "modules/00/slides.html#during-class",
+    "title": "Welcome to CS-393/593",
+    "section": "During class",
+    "text": "During class\n\nStrive for conversation and interactivity\n\nPlease ask questions, even mid-slide!\nThere are no wrong or bad questions!\nWe are all learning!\nI enjoy going off on tangents / on the whiteboard\nUse hands on lab time to seek input / troubleshoot code",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#grading",
+    "href": "modules/00/slides.html#grading",
+    "title": "Welcome to CS-393/593",
+    "section": "Grading",
+    "text": "Grading\n\nModule Assignments: 40% of grade (8 x 5%)\nFinal Project: 60% of grade\nRubric for the weekly assignments\nRubric for the final project (CS-393)\nRubric for the final project (CS-593)",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#handing-in-work",
+    "href": "modules/00/slides.html#handing-in-work",
+    "title": "Welcome to CS-393/593",
+    "section": "Handing in work",
+    "text": "Handing in work\n\nEverything submitted via GitHub\n\nRecommend creating a repo for weekly assignments\n\nFor most weeks, submission will be one Python notebook\n\nAnd (eventually) another repo for your final project\n\nDon’t forget to give me permissions! @simonguest",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#deadlines",
+    "href": "modules/00/slides.html#deadlines",
+    "title": "Welcome to CS-393/593",
+    "section": "Deadlines",
+    "text": "Deadlines\n\nWeekly Assignments\n\nAssignments are due by the following week’s lesson\ni.e., you get a week for each assignment\nIf you need more time/exception, please reach out via Teams\n\nFinal Project\n\nUp until Week 15 presentations\n(We’ll cover in detail later in the semester)",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#ai-policy",
+    "href": "modules/00/slides.html#ai-policy",
+    "title": "Welcome to CS-393/593",
+    "section": "AI policy",
+    "text": "AI policy\n\nPermitted AI usage\n\nStudents may use AI tools to assist in understanding and completing course materials. Where used in weekly assignments and the final projects, transcripts should be preserved and submitted as detailed in rubrics.\n\nProper citation\n\nWhere AI tools are used to assist with any part of an assignment, students must clearly cite the AI tool and explain how it was used.",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#tools",
+    "href": "modules/00/slides.html#tools",
+    "title": "Welcome to CS-393/593",
+    "section": "Tools",
+    "text": "Tools\n\nWe will be introducing many tools\n\nCodetto, Colab, OpenCode, Pi, Hermes, Herdr, etc.\nMost will be free\nExpect to need about $20 per month for Claude Code Pro",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#languages",
+    "href": "modules/00/slides.html#languages",
+    "title": "Welcome to CS-393/593",
+    "section": "Languages",
+    "text": "Languages\n\nWe will be using (and learning) a lot of Python!\n\nMost of the early assignments will be in Python\nDon’t worry if you are new to Python as we’ll introduce concepts gradually\nAlthough recommend investing extra time (see resources in Week 1)\n\nFinal Project\n\nCan be any language\nProbably depending on what you choose to create",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#hardware",
+    "href": "modules/00/slides.html#hardware",
+    "title": "Welcome to CS-393/593",
+    "section": "Hardware",
+    "text": "Hardware\n\nWill will be running local coding agents later in the semester\nThis will require a decent GPU and VRAM\n\nYour own NVIDIA-based laptop (CUDA)\nPotential of using MLX for any Mac users\nOption to use external GPU if needed",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#need-help-1",
+    "href": "modules/00/slides.html#need-help-1",
+    "title": "Welcome to CS-393/593",
+    "section": "Need help?",
+    "text": "Need help?\n\nhttps://simonguest.github.io/CS-393\n\nPlease bookmark this site!\nSlides (current and prior lectures), demo code, resources, rubrics, assignments\nI will re-post assignments and rubrics on the meta-moodle. (Grades will also be in Moodle.)",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#need-help-2",
+    "href": "modules/00/slides.html#need-help-2",
+    "title": "Welcome to CS-393/593",
+    "section": "Need help?",
+    "text": "Need help?\n\nOffice Hours\n\nWednesdays 1pm - 5pm (By appointment only)\n\nTeams (CS393/593 combined channel)\n\nPrimary mechanism for updates, ask questions, request office hours, etc.",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#steep-learning-curve",
+    "href": "modules/00/slides.html#steep-learning-curve",
+    "title": "Welcome to CS-393/593",
+    "section": "Steep learning curve",
+    "text": "Steep learning curve\n\nWe will be using the latest tools and AI models\nLots of new tools, acronyms, frameworks, etc.\nMuch of the curriculum builds upon itself\n\nPlease try not to miss lectures\nAsk for help if you need to catch up",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#new-course-at-digipen",
+    "href": "modules/00/slides.html#new-course-at-digipen",
+    "title": "Welcome to CS-393/593",
+    "section": "New course at DigiPen!",
+    "text": "New course at DigiPen!\n\nThere may be some curriculum tweaks mid-flight\n\nEspecially for topics that need less/more time",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  },
+  {
+    "objectID": "modules/00/slides.html#fast-moving-space",
+    "href": "modules/00/slides.html#fast-moving-space",
+    "title": "Welcome to CS-393/593",
+    "section": "Fast moving space",
+    "text": "Fast moving space\n\nThere will be areas/questions I don’t have experience of\n\nMultiple new tools/agents/models are launched every week\n\nWe will be learning some things together!\nBut that’s what makes it exciting!",
+    "crumbs": [
+      "**Welcome**",
+      "Slides"
+    ]
+  }
+]
