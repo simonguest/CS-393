@@ -1,0 +1,229 @@
+---
+title: "Welcome to CS-393/593"
+author: "Simon Guest"
+format:
+  revealjs:
+    slide-number: true
+    incremental: true
+    center-title-slide: true
+    theme: [default, ../../theme/digipen.scss]
+    highlight-style: github
+    width: 1050
+    height: 700
+    margin: 0.15
+title-slide-attributes:
+  data-background-gradient: "linear-gradient(135deg, #ba1127 0%,  #850022 20%, #000000 100%)"
+  data-background-image: "../../theme/logos/DigiPen_Dragon_Shield_RGB_Black.png"
+  data-background-opacity: "0.3"
+logo: ../../theme/logos/DigiPen_RGB_Red.png
+---
+
+# Introductions
+
+# Course overview
+
+## Course description
+
+- This course covers principles and practice of AI coding agents in software engineering. 
+- Topics include 
+  - Foundations of generative AI and agentic systems
+  - Directing agents toward engineering goals
+  - Evaluation and testing of AI-generated code
+  - Design and construction of custom agent systems
+
+## Course description
+
+- Topics cont'd
+  - Security and oversight of autonomous agents
+  - Integration of agents into software development processes
+  - and professional, legal, and economic considerations
+- Includes a substantial hands-on project
+
+## Learning outcomes
+
+1.	Understand the basic working principles and history of LLMs (Large Language Models) and agents, including the agentic loop, retrieving data, and incorporating tools.
+2.	Apply effective prompting practices to direct coding agents toward a working solution, using a structured lifecycle approach.
+
+## Learning outcomes
+
+3.	Critically evaluate AI-generated code and agent output, identifying and fixing hallucinated output and comparing performance using industry benchmarks.
+4.	Integrate coding agents into real software engineering workflows while applying necessary security controls and licensing considerations.
+5.	Design, build, and deploy a complete application using coding agents or design a custom coding-agent system end-to-end.
+
+## In summary
+
+- Focus on using AI coding agents effectively vs. "vibe-coding"
+- Provide a level of understanding beyond where most professional software developers are today
+- Build an exciting final project that you can add to your portfolio!
+
+# Syllabus
+
+## Syllabus
+
+- [Syllabus on OneDrive](https://digipen824-my.sharepoint.com/:w:/g/personal/simon_guest_digipen_edu/IQCw94-WWleSSbVm6poWStB9ASuUWW6bEZRanQuZ4GVGNH8?e=JLIfG1){.external target="_blank"}
+
+# What to expect in each class
+
+## Schedule
+
+- Every Thursday (Blanc); 9am - 11.50am
+- ~1.5 hours of lecture
+- ~1.5 hours for in-class hands-on exercises and assignments
+- Expectation of after-class work for assignments
+- No structured lectures for the weeks of the final project (3 hours of in-class lab time)
+  - Although we may do mini-lectures for common topics
+
+## Schedule
+
+- Modules 1 through 8
+  - From now through Feb 25th
+- Mar 9 - 13 is Spring Break!
+- Weeks 9 through 14 - Final Project Work
+- Final presentations w/o Apr 19th-23rd
+
+## During class
+
+- Strive for conversation and interactivity
+  - Please ask questions, even mid-slide!
+  - There are no wrong or bad questions!
+  - We are all learning!
+  - I enjoy going off on tangents / on the whiteboard
+  - Use hands on lab time to seek input / troubleshoot code
+
+## Grading
+
+- Module Assignments: 40% of grade (8 x 5%)
+- Final Project: 60% of grade
+- [Rubric for the weekly assignments](weekly-rubric.qmd){.external target="_blank"}
+- [Rubric for the final project (CS-393)](final-rubric-393.qmd){.external target="_blank"}
+- [Rubric for the final project (CS-593)](final-rubric-593.qmd){.external target="_blank"}
+
+## Handing in work
+
+- Everything submitted via GitHub
+  - Recommend creating a repo for weekly assignments
+    - For most weeks, submission will be one Python notebook
+  - And (eventually) another repo for your final project 
+- Don't forget to give me permissions! @simonguest
+  
+## Deadlines
+
+- Weekly Assignments
+  - Assignments are due by the following week's lesson
+  - i.e., you get a week for each assignment
+  - If you need more time/exception, please reach out via Teams
+- Final Project
+  - Up until Week 15 presentations
+  - (We'll cover in detail later in the semester)
+
+## AI policy
+
+- Permitted AI usage
+  - Students may use AI tools to assist in understanding and completing course materials. Where used in weekly assignments and the final projects, transcripts should be preserved and submitted as detailed in rubrics.
+- Proper citation
+  - Where AI tools are used to assist with any part of an assignment, students must clearly cite the AI tool and explain how it was used.
+
+# Tools, languages, and hardware
+
+## Tools
+
+- We will be introducing many tools
+  - Codetto, Colab, OpenCode, Pi, Hermes, Herdr, etc.
+  - Most will be free
+  - Expect to need about $20 per month for Claude Code Pro
+
+## Languages
+
+- We will be using (and learning) a lot of Python!
+  - Most of the early assignments will be in Python
+  - Don't worry if you are new to Python as we'll introduce concepts gradually
+  - Although recommend investing extra time (see resources in Week 1)
+- Final Project
+  - Can be any language
+  - Probably depending on what you choose to create
+
+## Hardware
+
+- Will will be running local coding agents later in the semester
+- This will require a decent GPU and VRAM
+  - Your own NVIDIA-based laptop (CUDA)
+  - Potential of using MLX for any Mac users
+  - Option to use external GPU if needed
+
+# Need help?
+
+## Need help?
+
+- [https://simonguest.github.io/CS-393](https://simonguest.github.io/CS-393){.external target="_blank"}
+  - Please bookmark this site!
+  - Slides (current and prior lectures), demo code, resources, rubrics, assignments
+  - I will re-post assignments and rubrics on the meta-moodle. (Grades will also be in Moodle.)
+
+## Need help?
+
+- Office Hours
+  - Wednesdays 1pm - 5pm (By appointment only)
+- Teams (CS393/593 combined channel)
+  - Primary mechanism for updates, ask questions, request office hours, etc.
+
+# Before we get started...
+
+## Steep learning curve
+
+- We will be using the latest tools and AI models
+- Lots of new tools, acronyms, frameworks, etc.
+- Much of the curriculum builds upon itself
+  - Please try not to miss lectures
+  - Ask for help if you need to catch up
+
+## New course at DigiPen!
+
+- There may be some curriculum tweaks mid-flight
+  - Especially for topics that need less/more time
+
+## Fast moving space
+
+- There will be areas/questions I don't have experience of
+  - Multiple new tools/agents/models are launched every week
+- We will be learning some things together!
+- But that's what makes it exciting!
+
+# Questions?
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap');
+
+.reveal, .reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  font-family: 'Inter', sans-serif;
+}
+
+.reveal .slides > section > h1,
+.reveal .slides > section > h2,
+.reveal .slides > section > section > h1,
+.reveal .slides > section > section > h2 {
+  color: #ba1127;
+}
+                                                                        
+.slide-background.blurred .slide-background-content {
+  filter: blur(8px);
+}
+.slide-background.darken .slide-background-content::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.5);
+}
+#title-slide h1, #title-slide h2, #title-slide p, #title-slide .author,
+#title-slide .quarto-title-author-name, #title-slide .quarto-title-authors {
+  color: white !important;
+}
+.justify {
+  text-align: center;
+}
+.white, .white h1, .white h2, .white h3, .white p, .white li {
+  color: white !important;
+}
+.red, .red h1, .red h2, .red h3, .red p, .red li {
+  color:  #8B0000 !important;
+}
+</style>

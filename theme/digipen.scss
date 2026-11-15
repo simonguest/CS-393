@@ -1,0 +1,66 @@
+/*-- scss:defaults --*/
+
+// DigiPen Color Palette
+$digipen-red: #ba1127;
+$dark-red: #850022;
+$light-red: #e71b2b;
+$medium-gray: #d1d3d5;
+$dark-gray: #535557;
+$black: #000000;
+$white: #ffffff;
+
+// Theme Colors (Light Mode)
+$backgroundColor: $white;
+$mainColor: #2d2d2d;
+$headingColor: $digipen-red;
+$linkColor: $digipen-red;
+$linkColorHover: $dark-red;
+$selectionBackgroundColor: rgba($light-red, 0.3);
+
+// Code block styling
+$codeBg: #f5f5f5;
+$codeColor: $dark-gray;
+
+/*-- scss:rules --*/
+
+.reveal h1 {
+  color: $digipen-red;
+}
+
+.reveal h2 {
+  color: $digipen-red;
+  border-bottom: 3px solid $digipen-red;
+}
+
+.reveal code {
+  background: $codeBg;
+  border-radius: 3px;
+  color: $dark-red;
+}
+
+// Emphasis
+.reveal strong,
+.reveal b {
+  color: $digipen-red;
+  font-weight: 700;
+}
+
+// Progress bar
+.reveal .progress {
+  background: $medium-gray;
+  color: $digipen-red;
+  height: 3px;
+
+  span {
+    background: linear-gradient(90deg, $dark-red 0%, $light-red 100%);
+  }
+}
+
+// Slide numbers
+.reveal .slide-number {
+  color: $digipen-red;
+  padding: 6px 10px;
+  border-radius: 4px;
+  font-weight: 500;
+  font-size: 0.7em;
+}

@@ -1,0 +1,5 @@
+# CS-393/593: AI Coding Agents
+
+## About
+
+This site contains a collection of slides, code, and other resources for lectures held within the Spring 2027 CS-393/593 course.
