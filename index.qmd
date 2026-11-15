@@ -3,3 +3,7 @@
 ## About
 
 This site contains a collection of slides, code, and other resources for lectures held within the Spring 2027 CS-393/593 course.
+
+## Description
+
+This course covers principles and practice of AI coding agents in software engineering. Topics include foundations of generative AI and agentic systems; directing agents toward engineering goals; evaluation and testing of AI-generated code; design and construction of custom agent systems; security and oversight of autonomous agents; integration of agents into software development processes; and professional, legal, and economic considerations. Includes a substantial hands-on project.
